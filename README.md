@@ -3,6 +3,6 @@
 Email: "Testing@trendmicro.com"
 Password: "FastPass1234"
 
-Username = TRENDEU\testing
+Username = TRENDPH\testing
 
-Logon at http://www.something-url.trendmicro.com
+Logon at http://www.testing-url.trendmicro.com
